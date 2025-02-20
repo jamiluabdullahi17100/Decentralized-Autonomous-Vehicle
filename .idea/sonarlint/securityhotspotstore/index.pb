@@ -5,3 +5,5 @@ C
 contracts/ride.clar,a/e/ae9fb7a16a25be1b90d1fe4b5fc3ef39bce85249
 B
 tests/ride.test.ts,d/8/d811b3adf96794eb79ef749d8ddbf8ae4548f09a
+S
+#contracts/vehicle-registration.clar,8/9/8951745f7048259d44f3ea336f35763bdc1d99fa
